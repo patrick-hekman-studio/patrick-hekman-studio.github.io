@@ -43,7 +43,6 @@
 		font-weight: 900;
 		letter-spacing: 6px;
 		transform: scaleY(.9);
-		text-shadow: 3px 0; 
 		padding-bottom: 20px;
 	}
 
@@ -53,7 +52,7 @@
 
 	@media (max-width: 350px) {
 	.tagLineLimitMM {
-		    font-size: 21px;
+		    font-size: 23px;
 		  }
 		}
 
